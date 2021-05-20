@@ -1,0 +1,20 @@
+
+alter proc [dbo].[sp_t]
+@tbl	varchar(100)
+as
+begin 
+  
+	select   'select top 3  * from ' +  s.name + '.'+ t.name +' order by 1 desc ' FROM sys.tables as t 
+	inner join sys.schemas s on s.schema_id=t.schema_id where   t.name like '%'+ @tbl +'%' 
+	 
+end 
+go 
+alter proc [dbo].[sp_s]
+@tbl	varchar(100)
+as
+begin  
+
+	select   'sp_helptext ''' +  s.name + '.'+ t.name +''''  FROM sys.procedures as t 
+	inner join sys.schemas s on s.schema_id=t.schema_id where   t.name like '%'+ @tbl +'%' 
+	 
+end
