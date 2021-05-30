@@ -8,3 +8,12 @@ https://www.automatetheplanet.com/selenium-webdriver-csharp-cheat-sheet/
 
 https://www.linkedin.com/pulse/automation-testing-specflow-selenium-net-core-ankit-chaturvedi/?articleId=6607204337359872000
 
+https://www.freeformatter.com/xml-formatter.html
+
+https://medium.com/@ozgurgul/angular-6-login-and-router-tutorial-ac5fc5d3027f
+
+https://jasonwatmore.com/post/2018/10/29/angular-7-user-registration-and-login-example-tutorial#register-component-ts
+
+https://csvjson.com/
+
+https://jsonformatter.curiousconcept.com/
