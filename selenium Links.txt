@@ -17,3 +17,5 @@ https://jasonwatmore.com/post/2018/10/29/angular-7-user-registration-and-login-e
 https://csvjson.com/
 
 https://jsonformatter.curiousconcept.com/
+
+https://www.littlebigtomatoes.com/how-to-generate-typescript-classes-from-c-like-a-pro/
